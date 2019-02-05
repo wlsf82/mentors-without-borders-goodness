@@ -9,6 +9,6 @@ Your first onboarding exercise will be replicating the following [simple web pag
 ## Checklist
 
 - [ ] Create account on [GitHub](https://github.com)
-- [ ] Introduce [Codecademy.com](https://codecademy.com)
+- [ ] Introduce [codecademy.com](https://codecademy.com)
 - [ ] Introduce [W3School](https://www.w3schools.com)
 - [ ] Introduce [Learn web development - Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn) 
