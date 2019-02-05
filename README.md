@@ -6,6 +6,9 @@ This projet will be used as part of the onboarding process of [MWB](https://ment
 
 The first onboarding exercise will be to replicate the following [simple web page](https://6wxkvk3oyz.codesandbox.io/) about Nigeria.
 
-## GitHub
+## Checklist
 
-- [ ] Create account on GitHub for Durosaro Goodness Ayomide
+- [ ] Create account on [GitHub](github.com) for Durosaro Goodness Ayomide
+- [ ] Introduce [Codecademy.com](codecademy.com)
+- [ ] Introduce [W3School](https://www.w3schools.com)
+- [ ] Introduce [Learn web development - Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn) 
