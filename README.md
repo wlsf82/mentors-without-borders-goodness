@@ -8,4 +8,4 @@ The first onboarding exercise will be to replicate the following [simple web pag
 
 ## GitHub
 
-- [] Create account on GitHub for Durosaro Goodness Ayomide
+- [ ] Create account on GitHub for Durosaro Goodness Ayomide
