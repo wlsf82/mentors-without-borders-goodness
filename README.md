@@ -8,7 +8,7 @@ The first onboarding exercise will be to replicate the following [simple web pag
 
 ## Checklist
 
-- [ ] Create account on [GitHub](github.com) for Durosaro Goodness Ayomide
-- [ ] Introduce [Codecademy.com](codecademy.com)
+- [ ] Create account on [GitHub](https://github.com) for Durosaro Goodness Ayomide
+- [ ] Introduce [Codecademy.com](https://codecademy.com)
 - [ ] Introduce [W3School](https://www.w3schools.com)
 - [ ] Introduce [Learn web development - Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn) 
